@@ -38,7 +38,9 @@
 
 <p>Escolhi dedicar-me à carreira de Analista de Qualidade ao perceber minha notável habilidade para identificar falhas e compreender suas origens.</p>
 
-<p>Essa revelação ocorreu enquanto relatava inúmeros bugs para um jogo de código aberto, desde os mais simples e quase imperceptíveis até os mais críticos. Apesar dos frequentes incentivos dos meus amigos para seguir a programação, em virtude do meu contínuo interesse em tecnologia e jogos, optei por iniciar minha trajetória profissional na área de TI como Analista de Qualidade.</p>
+<p>Essa descoberta ocorreu enquanto relatava inúmeros bugs para um jogo de código aberto, desde os mais simples e quase imperceptíveis até os mais críticos.
+<p>Apesar dos frequentes incentivos dos meus amigos para seguir a programação, em virtude do meu contínuo interesse em tecnologia e jogos, decidi iniciar minha jornada profissional na área de Tecnologia da Informação (TI) como Analista de Qualidade.</p>
+<p>Acredito que minha habilidade em identificar facilmente falhas pode ser uma vantagem significativa neste campo.</p>
 </div>
 
 <p align="center">
@@ -46,7 +48,7 @@
 - 📚 Atualmente, dedico meu tempo ao processo de aprendizagem acerca da automação de testes.
 - 🔭 Tenho desenvolvido modificações para um fork que criei de um jogo.
 - 📫 Contato: m.fabiojr.s@gmail.com
-- ⚡ Curiosidades: Tenho um interesse particular por jogos, aprecio a música, pratico design nas horas livres e, sempre que possível, dedico um tempo extra ao autodesenvolvimento do meu inglês.
+- ⚡ Curiosidades: Tenho um interesse particular por jogos, aprecio a música, minha antiga profissão era sushiman, pratico design nas horas livres e, sempre que possível, dedico um tempo extra ao autodesenvolvimento do meu inglês.
 
 </p>
 
